@@ -5,8 +5,8 @@ git cheatsheet
 
 # git aanmaken
 - git init
-- git commit -m "initial"
 - git add .
+- git commit -m "initial"
 - git remote add origin { https/SSH }
 - git push --set-upstream origin { branch }
 
